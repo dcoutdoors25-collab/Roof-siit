@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Roof Armor – About</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <div class="header-inner">
+        <h1 class="logo-text">Roof Armor</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main class="main">
+    <h2 class="section-title">About Roof Armor</h2>
+
+    <div class="card">
+        <p>
+            Roof Armor was created to give homeowners a smarter choice between ignoring an aging roof
+            and paying for a full replacement. We specialize in roof life extension, not tear-offs.
+        </p>
+        <p>
+            Using our hybrid 3-step system, we help Metro Atlanta homeowners extend the life of their
+            existing shingle roofs, prevent leaks, and protect their biggest investment — their home.
+        </p>
+        <p>
+            Our focus is simple: honest inspections, clear communication, and high-quality work that
+            actually solves problems and saves money.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Why Homeowners Trust Us</h3>
+        <p>✔ Local, service-focused company</p>
+        <p>✔ We show you photo evidence before and after</p>
+        <p>✔ We recommend only what your roof truly needs</p>
+        <p>✔ We treat your home like our own</p>
+    </div>
+</main>
+
+<footer class="footer">
+    Roof Armor • 470-500-6388 • info@roofarmoratl.com • roofarmoratl.com
+</footer>
+</body>
+</html>
