@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Roof Armor – Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <div class="header-inner">
+        <h1 class="logo-text">Roof Armor</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main class="main">
+    <h2 class="section-title">Our Services</h2>
+
+    <div class="card">
+        <h3>3-Step Hybrid Roof Protection System</h3>
+        <p><strong>Step 1 – Shingle Rejuvenation</strong><br>
+            Restores lost oils, improves flexibility, and reduces cracking in aging shingles.</p>
+        <p><strong>Step 2 – Acrylic UV & Surface Seal</strong><br>
+            Adds UV protection, helps reduce heat, and strengthens the roof surface.</p>
+        <p><strong>Step 3 – Silicone Flashing & Leak Defense</strong><br>
+            Silicone is applied to valleys, pipe boots, chimneys, skylights, and other leak-prone areas.</p>
+    </div>
+
+    <div class="card">
+        <h3>Free Roof Condition Report</h3>
+        <p>
+            Every job starts with a free roof check and photo report, so you can see exactly what’s
+            happening on your roof before you decide on any work.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Pricing Guidance</h3>
+        <p>Basic Seal Package: typically $699–$1,200</p>
+        <p>Full Roof Armor Hybrid System: typically $1,500–$3,500</p>
+        <p>Premium upgrades available depending on roof size and condition.</p>
+        <p><em>Final pricing depends on roof size, slope, and condition.</em></p>
+    </div>
+</main>
+
+<footer class="footer">
+    Roof Armor • 470-500-6388 • info@roofarmoratl.com • roofarmoratl.com
+</footer>
+</body>
+</html>
